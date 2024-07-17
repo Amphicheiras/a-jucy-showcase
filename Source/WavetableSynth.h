@@ -1,6 +1,6 @@
 #pragma once
 #include "JuceHeader.h"
-#include "../Builds/VisualStudio2022/WavetableOscillator.h"
+#include "WavetableOscillator.h"
 
 class WavetableSynth
 {
